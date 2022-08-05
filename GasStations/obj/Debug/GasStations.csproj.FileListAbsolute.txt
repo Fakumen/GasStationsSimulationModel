@@ -1,0 +1,6 @@
+D:\ToRemove\GasStations\bin\Debug\GasStations.exe.config
+D:\ToRemove\GasStations\bin\Debug\GasStations.exe
+D:\ToRemove\GasStations\bin\Debug\GasStations.pdb
+D:\ToRemove\GasStations\obj\Debug\GasStations.csprojAssemblyReference.cache
+D:\ToRemove\GasStations\obj\Debug\GasStations.exe
+D:\ToRemove\GasStations\obj\Debug\GasStations.pdb
